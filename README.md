@@ -1,7 +1,8 @@
 # Information-Visualization-Spring-2021-Final-Project
 
-![Final Look](https://github.com/ian-Liaozy/Information-Visualization-Spring-2021-Final-Project/blob/da477b9315da62e73baffe61ee95f825f99da7da/Screen%20Shot%202021-05-25%20at%205.46.43%20PM.png)
+![Final Look of the Project](https://github.com/ian-Liaozy/Information-Visualization-Spring-2021-Final-Project/blob/da477b9315da62e73baffe61ee95f825f99da7da/Screen%20Shot%202021-05-25%20at%205.46.43%20PM.png)
 
+Click [here](https://docs.google.com/presentation/d/1Q_JxkJXG_1RIvNT8WEpvI7sMdg-jkijkDlptKd4CkVc/edit?usp=sharing) to see the project's presentation!
 
 ### _Overview_
 With the rapid popularization of the internet, social media has become an important platform of expression and communication in the 21st century. However, compared to the traditional medium of expression, social media allows more possibility for irresponsible actions. The atmosphere of social media platforms can become very toxic. Weibo is one of the most popular social media platforms in China. With the characteristic of user anonymity, the prevalence of hate speech and hate comments becomes an important issue in Weibo. Specifically, with the rising gender awareness and the increasing gender antagonism in China/, sexist comments became an important source of Weibo’s hate speech. To address the above issues, we propose a visualization project that analyzes 8969 Weibo sexist comments. 
