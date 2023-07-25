@@ -1,0 +1,136 @@
+body { 
+    /* font-family: "Poppins", sans-serif; */
+    font-family: 'Merriweather', serif;
+    background-color: #FFEDF2;
+}
+.title{
+font-size: 50px;
+}
+
+.land {
+    fill:#bfbfbf; ;
+} 
+
+.interiors {
+    fill: none;
+    stroke: #C0C0BB;
+    stroke-width: 1px;
+} 
+.boundary {
+    fill: #c9c9c9;
+    stroke: #443a3a;
+}
+.selectedBoundary {
+     fill: #b6a2b6;
+    stroke: #443a3a;
+}
+
+.sphere {
+    fill:  #EF82A7;
+    cursor: pointer;
+}
+
+.sphereCenter {
+    fill:rgb(77, 32, 32);
+}
+.bar {
+    fill:rgb(186, 174, 202);
+}
+.barSelected {
+    fill:rgb(56, 53, 61);
+}
+text{
+    background-color:rgb(205, 197, 220);
+}
+h1{
+    line-height:10px;
+}
+h2{
+    line-height:10px;
+}
+h3{
+    line-height:50px;
+    font-size:30px;
+    color: #314094;
+     width: 380px;
+}
+pre {
+    font-family: 'Merriweather';
+    font-size:xx-small;
+}
+div.barChart{
+    position: absolute;
+    top: 450px;
+    left:910px;
+}
+div.treeMap{
+    position: absolute;
+    width: auto;
+    top: 830px;
+    left:850px;
+}
+div.timeText{
+    position: absolute;
+    width: auto;
+    top:880px;
+    left:85px;
+    font-size:17px;
+}
+div.tag{
+    position: absolute;
+    width: 500;
+    top: 700px;
+    left:890px;
+   border-style: ridge; 
+}
+div.tag2{
+    position: absolute;
+    width: 200;
+    top: 80px;
+    left:80px;
+  
+}
+div.timeSeries{
+    position: absolute;
+    width: auto;
+    top: 700px;
+    left:48px;
+
+}
+div.timelable{
+    position: absolute;
+    width: auto;
+    top: 700px;
+    left:90px;
+
+}
+div.wordmap{
+    position: absolute;
+    top: 50px;
+    left:860px;
+}
+
+div.table-div {
+    position: absolute;
+    top: 920px;
+    left:30px;
+    width: 800px;
+    height: 415px;
+    overflow: scroll;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 90%;
+    height: 300px;
+    border: 1px solid #ddd;
+    overflow: scroll;
+}
+
+th, td {
+    text-align: left;
+    font-size: 15px;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
